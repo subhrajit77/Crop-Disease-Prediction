@@ -1,0 +1,101 @@
+Soil_pH,Temperature_C,Humidity_%,Rainfall_mm,Nitrogen,Phosphorus,Potassium,Disease_Label
+6.0,26,89,123,59,27,47,Viral Disease
+8.3,36,78,36,51,21,15,Bacterial Disease
+7.43,39,31,23,39,30,41,Fungal Disease
+6.89,23,30,92,28,12,30,Fungal Disease
+5.12,24,77,45,26,33,25,Fungal Disease
+5.12,26,41,180,28,30,30,Fungal Disease
+4.73,32,34,94,37,14,20,Fungal Disease
+7.96,34,66,98,35,30,46,Bacterial Disease
+6.9,30,61,187,46,38,45,Bacterial Disease
+7.33,23,88,115,35,11,44,Fungal Disease
+4.58,32,84,190,32,8,28,Viral Disease
+8.38,26,38,159,18,15,29,Healthy
+7.83,38,70,160,21,33,27,Fungal Disease
+5.35,21,64,66,10,29,23,Viral Disease
+5.23,29,48,127,10,25,24,Healthy
+5.23,32,77,17,56,14,40,Fungal Disease
+5.72,25,45,24,43,13,10,Fungal Disease
+6.6,31,32,53,41,28,12,Bacterial Disease
+6.23,31,49,57,57,39,25,Healthy
+5.66,39,53,66,34,39,32,Healthy
+6.95,30,83,103,49,22,20,Viral Disease
+5.06,26,85,173,54,36,21,Bacterial Disease
+5.67,20,62,23,10,28,19,Bacterial Disease
+5.97,20,53,113,25,27,41,Bacterial Disease
+6.32,39,81,31,48,36,25,Bacterial Disease
+7.64,32,40,174,14,16,17,Healthy
+5.3,28,78,85,31,17,47,Healthy
+6.56,22,37,150,38,27,21,Fungal Disease
+6.87,26,65,193,12,29,33,Fungal Disease
+4.69,25,67,126,21,39,37,Bacterial Disease
+6.93,27,69,154,35,34,17,Bacterial Disease
+5.18,28,49,129,25,21,37,Bacterial Disease
+4.76,24,64,16,46,24,45,Fungal Disease
+8.3,20,77,103,31,29,35,Viral Disease
+8.36,38,54,160,38,26,17,Viral Disease
+7.73,29,64,136,23,17,37,Fungal Disease
+5.72,31,54,42,37,23,37,Fungal Disease
+4.89,34,58,175,14,16,46,Fungal Disease
+7.24,28,47,38,56,23,45,Fungal Disease
+6.26,39,75,169,58,16,36,Fungal Disease
+4.99,36,47,25,39,13,26,Fungal Disease
+6.48,36,31,98,55,11,18,Bacterial Disease
+4.64,39,83,49,14,32,42,Bacterial Disease
+8.14,31,64,152,21,18,29,Bacterial Disease
+5.54,26,45,151,25,35,22,Bacterial Disease
+7.15,21,70,12,35,23,37,Fungal Disease
+5.75,22,65,59,35,20,38,Viral Disease
+6.58,36,62,134,57,9,22,Healthy
+6.69,24,33,56,30,39,44,Fungal Disease
+5.24,36,62,35,48,16,15,Healthy
+8.38,36,43,172,45,29,27,Viral Disease
+7.6,36,50,19,42,25,14,Bacterial Disease
+8.26,21,77,64,39,27,34,Viral Disease
+8.08,21,49,7,46,20,11,Fungal Disease
+6.89,24,85,143,32,18,19,Bacterial Disease
+8.19,20,37,141,19,35,39,Fungal Disease
+4.85,20,36,114,14,9,14,Bacterial Disease
+5.28,38,32,142,45,39,42,Healthy
+4.68,21,46,91,43,27,10,Healthy
+5.8,31,62,97,40,33,27,Healthy
+6.05,25,77,65,19,15,41,Viral Disease
+5.59,23,41,31,28,22,20,Fungal Disease
+7.81,30,88,190,41,16,30,Viral Disease
+5.93,36,80,85,10,13,35,Healthy
+5.62,25,51,50,14,14,34,Fungal Disease
+6.67,24,84,152,54,21,31,Healthy
+5.06,39,51,185,13,11,36,Viral Disease
+7.71,21,75,62,25,17,22,Viral Disease
+4.8,25,59,189,33,13,42,Viral Disease
+8.45,30,67,124,25,31,43,Healthy
+7.59,35,67,149,11,6,44,Fungal Disease
+5.29,35,74,57,58,9,10,Fungal Disease
+4.52,20,80,57,37,33,30,Healthy
+7.76,28,83,85,41,23,15,Fungal Disease
+7.33,25,37,48,36,12,37,Healthy
+7.42,35,56,179,29,5,26,Fungal Disease
+7.59,22,56,169,33,26,14,Bacterial Disease
+4.8,39,63,69,21,21,40,Bacterial Disease
+5.93,23,50,14,59,11,14,Viral Disease
+4.96,38,59,53,44,29,47,Bacterial Disease
+7.95,22,62,187,42,8,12,Bacterial Disease
+6.99,38,57,100,42,10,32,Bacterial Disease
+5.82,39,76,7,52,35,46,Healthy
+4.75,26,62,52,46,23,46,Bacterial Disease
+5.74,39,34,59,21,31,19,Bacterial Disease
+5.8,28,89,107,12,14,19,Viral Disease
+7.42,20,77,4,10,30,28,Bacterial Disease
+7.05,27,48,102,42,23,26,Bacterial Disease
+8.05,26,33,195,49,7,30,Fungal Disease
+6.39,37,64,5,19,17,23,Viral Disease
+4.98,27,78,108,52,32,18,Viral Disease
+7.35,20,46,115,53,24,10,Viral Disease
+7.54,30,73,93,38,32,22,Viral Disease
+6.75,37,57,46,22,12,13,Viral Disease
+7.58,29,59,98,21,5,10,Viral Disease
+6.48,22,58,54,40,7,49,Healthy
+6.59,26,75,167,55,17,41,Bacterial Disease
+6.21,35,82,51,11,32,43,Viral Disease
+4.6,35,35,143,59,29,37,Bacterial Disease
+4.93,39,64,12,44,37,40,Bacterial Disease
